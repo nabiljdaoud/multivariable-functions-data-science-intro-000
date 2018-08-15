@@ -79,4 +79,4 @@ If you feel comfortable with that, give yourself a pat on the back.
 
 ### Summary
 
-In this section, we started thinking about the cost related to a dimension line not only as a y-intercept changes, but also as the slope changes.  To do this, we talked about multivariable functions in general, and how one can even think of of a three dimensional graphs in terms of successive two dimensional graphs.  This is how we can think of our cost curve, as matter of shifting one or both of the variables of our regression line, and seeing the resulting change to the function's accuracy.   
+In this section, we started thinking about the cost related to a three dimensional curve not only as a y-intercept changes, but also as the slope changes.  To do this, we talked about multivariable functions in general, and how one can even think of of a three dimensional graphs in terms of successive two dimensional graphs.  This is how we can think of our cost curve, as matter of shifting one or both of the variables of our regression line, and seeing the resulting change to the function's accuracy.   
